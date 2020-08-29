@@ -1,2 +1,2 @@
-Git File
-change in Branch2
+Git File text changed
+Changing in git
