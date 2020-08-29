@@ -1,4 +1,3 @@
 Git File text changed
 Changing in git
 Change in Branch3
-Change made in Master
